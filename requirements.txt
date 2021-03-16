@@ -1,15 +1,3 @@
 tinydb
 datetime
 json
-
-
-#To install, go to command prompt and type:
->pip install json
-
->pip install datetime
-
->pip install tinydb
-
-#There you go
-//Run the code and see...
-//NOTE- Don't delete anything from folder
